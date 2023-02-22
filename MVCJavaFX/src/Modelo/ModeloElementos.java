@@ -18,8 +18,8 @@ public class ModeloElementos {
         this.elementos = FXCollections.observableArrayList();
         elementos.add("Javier");
         elementos.add("Ivan");    
-        elementos.add("German"); 
-        elementos.add("Maria Jesus");         
+        elementos.add("Ruben"); 
+        elementos.add("Jesus");         
     }
     
     public ObservableList<String> getPersonas() {
